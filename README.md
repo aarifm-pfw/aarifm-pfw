@@ -21,6 +21,29 @@
   </a>
 </p>
 
+## 👨‍💻 About Me
+
+- 🎓 **MS in Computer Science** @ Purdue University
+- 💼 **6+ years** of software engineering experience across fintech, international organizations, and tech companies
+- 🔭 Currently working on **MLOps pipelines, AI/ML applications, and distributed systems**
+- 🌱 Building expertise in **LLMs, RAG systems, and production ML infrastructure**
+- 🏆 **Certified:** Azure AI Engineer Associate, Oracle Cloud GenAI Professional
+- 💡 Passionate about building **scalable, production-ready ML systems**
+- 📫 Reach me: **gaffoorabdul31@gmail.com**
+
+---
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Customer Churn Prediction MLOps Pipeline** | End-to-end ML pipeline with automated retraining, model versioning, and FastAPI deployment | Apache Airflow, FastAPI, MLflow, Docker, AWS |
+| **Sentiment Analysis App with LLM** | Real-time sentiment analyzer using Ollama integration with customizable UI | Streamlit, Ollama, Python, LLM |
+| **LinkedIn Job Analytics Platform** | Cohort analysis and A/B testing framework for job postings with RDS migration | Python, Pandas, AWS RDS, SQL |
+| **Health Lifestyle EDA** | Comprehensive exploratory data analysis achieving 90+ quality score | Python, Pandas, Matplotlib, Seaborn |
+| **Credit Card Fraud Detection** | Machine learning model for fraud detection with feature engineering | Scikit-learn, Python, ML |
+| **Stock Market Fundamental Analysis** | Financial analysis and modeling for investment decision-making | Python, Financial Analysis |
+
+---
 <!--
 **aarifm-pfw/aarifm-pfw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
